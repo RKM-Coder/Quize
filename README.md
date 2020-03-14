@@ -1,0 +1,2 @@
+# omnicuris
+Template for Quize
