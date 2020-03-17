@@ -1,2 +1,2 @@
-# omnicuris
+
 Template for Quize
